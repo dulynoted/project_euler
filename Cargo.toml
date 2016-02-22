@@ -1,0 +1,16 @@
+[package]
+name = "project_euler"
+version = "0.1.0"
+authors = ["matthew"]
+
+[profile.dev]
+debug =  true
+
+[dependencies]
+num = "*"
+time = "*"
+primal = "*"
+bit-vec = "*"
+
+#![allow(dead_code)]
+
